@@ -88,6 +88,11 @@ nav {
     text-align: center;
 }
 
+#younglings {
+    height: 260px;
+    width: 400px;
+}
+
 #web {
     height: 250px;
     width: 350px;
